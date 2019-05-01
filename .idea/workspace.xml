@@ -4,20 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7929ef0d-a290-4af8-a1ef-179bc36f4d97" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/AbstractFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IYinXiang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiamMiComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoAi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoMiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoMiPhone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactoryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/IPhoneFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/IPhoneFactory.java" afterDir="false" />
-    </list>
+    <list default="true" id="7929ef0d-a290-4af8-a1ef-179bc36f4d97" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -168,7 +155,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556701121656" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556701667704" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -258,12 +245,12 @@
       <workItem from="1555567001984" duration="670000" />
       <workItem from="1555813096959" duration="1295000" />
       <workItem from="1556540949217" duration="287000" />
-      <workItem from="1556673738507" duration="5397000" />
+      <workItem from="1556673738507" duration="5840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16616000" />
+    <option name="totallyTimeSpent" value="17059000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
