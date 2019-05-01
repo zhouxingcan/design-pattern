@@ -10,4 +10,6 @@ public class SimpleFactoryTest {
         IProduct product2=SimpleFactory.crateProduct("productb");
         product2.doSoming();
     }
+
 }
+

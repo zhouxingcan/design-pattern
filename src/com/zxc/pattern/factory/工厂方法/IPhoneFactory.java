@@ -9,5 +9,5 @@ public interface IPhoneFactory {
      * 创建具体的手机
      * @return
      */
-    public IPhone create();
+    IPhone create();
 }

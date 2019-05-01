@@ -4,7 +4,20 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7929ef0d-a290-4af8-a1ef-179bc36f4d97" name="Default Changelist" comment="" />
+    <list default="true" id="7929ef0d-a290-4af8-a1ef-179bc36f4d97" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/AbstractFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IYinXiang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiamMiComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoAi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoMiFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoMiPhone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/IPhoneFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/IPhoneFactory.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,38 +29,40 @@
     <session id="1450992836">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="IPhone" value="2" />
-          <entry key="IPhoneFactory" value="3" />
+          <entry key="IPhoneFactory" value="4" />
           <entry key="IProduct" value="6" />
           <entry key="Override" value="1" />
           <entry key="ProductB" value="2" />
-          <entry key="java" value="26" />
+          <entry key="java" value="51" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="26" />
-          <entry key="UML" value="14" />
+          <entry key="JAVA" value="51" />
+          <entry key="UML" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="919" />
+          <entry key="java" value="1560" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="919" />
+          <entry key="JAVA" value="1560" />
         </counts>
       </usages-collector>
     </session>
@@ -76,7 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactory.java" />
         <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/IProduct.java" />
         <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/ProductB.java" />
@@ -88,7 +102,18 @@
         <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/XiaoMIFactory.java" />
         <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/XiaoMiFactory.java" />
         <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/FactoryMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactoryTest.java" />
         <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/IPhoneFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IXiaoMi.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/AbstractFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IPhone.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IComputer.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IYinXiang.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoMiPhone.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiamMiComputer.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoAi.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoMiFactory.java" />
+        <option value="$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/AbstractFactoryTest.java" />
       </list>
     </option>
   </component>
@@ -110,7 +135,9 @@
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <flattenPackages ProjectPane="false" />
@@ -118,7 +145,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,13 +161,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555813200061" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556701121656" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -162,7 +189,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactoryMethodTest">
+  <component name="RunManager" selected="Application.AbstractFactoryTest">
+    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zxc.pattern.factory.抽象工厂.AbstractFactoryTest" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxc.pattern.factory.抽象工厂.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FactoryMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zxc.pattern.factory.工厂方法.FactoryMethodTest" />
       <module name="design-pattern" />
@@ -192,11 +232,13 @@
     <list>
       <item itemvalue="Application.SimpleFactoryTest" />
       <item itemvalue="Application.FactoryMethodTest" />
+      <item itemvalue="Application.AbstractFactoryTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FactoryMethodTest" />
+        <item itemvalue="Application.AbstractFactoryTest" />
         <item itemvalue="Application.SimpleFactoryTest" />
+        <item itemvalue="Application.FactoryMethodTest" />
       </list>
     </recent_temporary>
   </component>
@@ -214,17 +256,19 @@
       <workItem from="1553909522185" duration="5625000" />
       <workItem from="1553920775639" duration="5000" />
       <workItem from="1555567001984" duration="670000" />
-      <workItem from="1555813096959" duration="697000" />
+      <workItem from="1555813096959" duration="1295000" />
+      <workItem from="1556540949217" duration="287000" />
+      <workItem from="1556673738507" duration="5397000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10334000" />
+    <option name="totallyTimeSpent" value="16616000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.23659517" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.2191689" />
       <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.25938338" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -233,7 +277,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20113315" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -242,7 +286,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3177305" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -253,6 +297,36 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989429" visible="true" weight="0.2191689" />
+      <window_info id="Structure" order="1" sideWeight="0.5010571" side_tool="true" weight="0.25938338" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3177305" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.3297587" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -260,22 +334,12 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/zxc/factoryPattern.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactoryTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/java.lang.Override">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -357,13 +421,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/HuaWeiPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="uml://JAVA/com.zxc.pattern.factory.工厂方法.IPhone">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -389,50 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/IProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/HuaWeiFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.zxc.pattern.factory.工厂方法.IPhoneFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.zxc.pattern.factory.工厂方法.IPhoneFactory</OriginalElement>
-          <nodes>
-            <node x="" y="">com.zxc.pattern.factory.工厂方法.HuaWeiFactory</node>
-            <node x="" y="">com.zxc.pattern.factory.工厂方法.IPhoneFactory</node>
-            <node x="" y="">com.zxc.pattern.factory.工厂方法.XiaoMiFactory</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="78.0" y="72.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/IPhoneFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/XiaoMiFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -447,6 +460,131 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/FactoryMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/IProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IXiaoMi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="48" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IYinXiang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiamMiComputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IComputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" lean-forward="true" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/IPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoAi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoMiPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#157#158#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/XiaoMiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#372#373#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/AbstractFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/抽象工厂/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/HuaWeiFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/IPhone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -454,10 +592,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/FactoryMethodTest.java">
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/HuaWeiPhone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+        <state relative-caret-position="46">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.zxc.pattern.factory.工厂方法.IPhoneFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.zxc.pattern.factory.工厂方法.IPhoneFactory</OriginalElement>
+          <nodes>
+            <node x="" y="">com.zxc.pattern.factory.工厂方法.HuaWeiFactory</node>
+            <node x="" y="">com.zxc.pattern.factory.工厂方法.IPhoneFactory</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="78.0" y="26.5" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/zxc/pattern/factory/工厂方法/IPhoneFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
