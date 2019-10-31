@@ -1,0 +1,7 @@
+*.prefs
+*.classpath
+*.project
+logs/
+*.iml
+*.log
+.idea/
